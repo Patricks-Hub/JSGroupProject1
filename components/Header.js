@@ -4,7 +4,7 @@ import styles from "./Header.module.css";
 const Header = () => {
   return (
     <header className={styles.header}>
-      <h1>The Office EmployeeHub - Connect with Your Team</h1>
+      <h1>Employee Hub - Connect with Your Team</h1>
     </header>
   );
 };
